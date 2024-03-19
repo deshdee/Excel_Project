@@ -10,3 +10,6 @@ Vrinda Store Data Analysis
 
 Road Accident Dashboard
 ![Road Accident Data](https://github.com/deshdee/Excel_Project/assets/45814400/1cfb4259-c8a7-461d-a5c9-fed7afd81172)
+
+Financial Statement Dashboard
+![Excel](https://github.com/deshdee/Excel_Project/assets/45814400/7f2ed752-9921-41a5-9295-2e3f85dbb022)
